@@ -1,0 +1,15 @@
+{
+  "name": "assert-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishal bala",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "assert": "^2.1.0"
+  }
+}
